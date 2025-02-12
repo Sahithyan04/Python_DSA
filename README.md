@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-Some basic Data Structures implementation  Using python
-=======
+
 # Python DSA Practice Repository 🐉⚖️✨
 
 this is **Python Data Structures and Algorithms (DSA)** Practice Repository! 💚 This repo is my playground for mastering essential coding skills and tackling DSA problems !
@@ -15,5 +13,3 @@ this is **Python Data Structures and Algorithms (DSA)** Practice Repository! �
 - Crack technical interviews 🎉
 - Understand algorithm optimization 🧰
 
-
->>>>>>> 4a930ae (updated README)
