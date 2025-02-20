@@ -1,5 +1,5 @@
 
-# Python DSA Practice Repository 🐉⚖️✨
+# ✨ Python DSA Practice Repository ✨
 
 this is **Python Data Structures and Algorithms (DSA)** Practice Repository! 💚 This repo is my playground for mastering essential coding skills and tackling DSA problems !
 
